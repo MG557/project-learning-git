@@ -1,0 +1,12 @@
+/*Global*/
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+$font-text:  'Open Sans', sans-serif;
+$font-header: 'The Nautigal', cursive;
+a {
+    color: gold;
+    font: $font-header;
+    font-size: 100px;
+    background-color: pink;
+}
